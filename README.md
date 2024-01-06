@@ -1,4 +1,4 @@
-# tryoutstack/hello-world
+# python-hello-world
 
 ## Description
 "Hello, world!" を出力するだけの雛形
